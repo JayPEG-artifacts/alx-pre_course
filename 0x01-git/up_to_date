@@ -1,1 +1,2 @@
 git log
+git fetch --all
